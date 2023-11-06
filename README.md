@@ -4,6 +4,8 @@ Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Steve Tanex P [Embed personal github URL]
 2. Jobin George [Embed perosnal github URL]
+3. Joyel Jose
+4. Aibel Jees
 ## Team Id
 error404
 ## Link to product walkthrough
